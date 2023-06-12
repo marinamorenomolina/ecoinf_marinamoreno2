@@ -3,3 +3,11 @@ Día 1.
 Fenología de la floración
 Objetivos
 Seguimientos de los cambios en la fenología de un grupo de especies vegetales en un gradiente altitudinal.
+En cada evento de seguimiento se registra la fase fenológica en la que se encuentra la planta en función de una escala:
+
+Fase 0: aquellos que estén desarrollando las estructuras florales, pero aún no han iniciado la antesis.
+Fase 1: se observan entre 1 y 5 flores abiertas en el ejemplar.
+Fase 2: tienen abiertas más de 5 flores y aún no han alcanzado el máximo de floración.
+Fase 3: han alcanzado el máximo de floración.
+Fase 4: se observan frutos.
+Fase 5: todo lo observable son frutos y solamente aparecen flores secas.
